@@ -7,11 +7,11 @@ Used libraries - skikit-learn, matplotlib, pandas and numpy. Meticulously examin
 ## Feature Engineering
 In this phase, Principal Component Analysis (PCA) was employed to effectively reduce dimensionality and extract essential features from the dataset. By condensing the original features into a smaller set of principal components, PCA facilitated a more efficient representation of the data while retaining its key characteristics.
 
- Clustering:
+ __Clustering__:
 
 The k-means clustering algorithm was applied to segment customers based on their attributes. By iteratively assigning data points to clusters and optimizing cluster centroids, k-means grouped similar customers together, enabling the identification of distinct segments within the customer base.
 
- Visualization:
+ __Visualization__:
 
 Various graphs and visualizations were generated to gain insights into the clustering results and interpret customer segments effectively. Visualization techniques played a crucial role in understanding the distribution of data points across clusters and assessing the coherence of the identified segments.
 
@@ -30,7 +30,7 @@ Python 3.x pandas numpy matplotlib seaborn scikit-learn
 -- Explore the clustering results and gain insights from the visualizations generated during the analysis.
 
 ## Dataset
-Contains data of 1453 customers and contains 15 variables.
+[Dataset](https://drive.google.com/file/d/1OexH-CVBBXAdXwuEdeYfguKliMWqNOyl/view?usp=sharing) Contains data of 1453 customers and contains 15 variables.
 
 ## Results
 
