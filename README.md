@@ -1,10 +1,10 @@
-## McDonald's Market Segmentation
+# McDonald's Market Segmentation
 This project aims to perform data segmentation using customer data from McDonald's. By applying segmentation techniques, we can identify distinct customer segments based on various characteristics such as purchasing behavior, preferences, demographics, and more. The resulting segments can then be used to tailor marketing strategies, optimize product offerings, and enhance customer experiences.
 
 ## Data Preprocessing
 Used libraries - skikit-learn, matplotlib, pandas and numpy. Meticulously examined the McDonald's customer dataset for missing values and erroneous entries, particularly non-numeric data. Through exploratory data analysis (EDA), we gained valuable insights into the dataset's distribution and relationships between variables, ensuring its integrity and readiness for segmentation analysis.
 
-# Feature Engineering
+## Feature Engineering
 In this phase, Principal Component Analysis (PCA) was employed to effectively reduce dimensionality and extract essential features from the dataset. By condensing the original features into a smaller set of principal components, PCA facilitated a more efficient representation of the data while retaining its key characteristics.
 
  Clustering:
@@ -23,7 +23,8 @@ Python 3.x pandas numpy matplotlib seaborn scikit-learn
 
 -- Install the necessary libraries using pip:
 
- (pip install pandas numpy matplotlib seaborn scikit-learn)
+    (pip install pandas numpy matplotlib seaborn scikit-learn)
+  
 -- Run the Jupyter Notebook or Python script to execute the provided code.
 
 -- Explore the clustering results and gain insights from the visualizations generated during the analysis.
