@@ -4,6 +4,9 @@ This project aims to perform data segmentation using customer data from McDonald
 ## Data Preprocessing
 Used libraries - skikit-learn, matplotlib, pandas and numpy. Meticulously examined the McDonald's customer dataset for missing values and erroneous entries, particularly non-numeric data. Through exploratory data analysis (EDA), we gained valuable insights into the dataset's distribution and relationships between variables, ensuring its integrity and readiness for segmentation analysis.
 
+## Dataset
+[Click here to download Dataset](https://drive.google.com/file/d/1OexH-CVBBXAdXwuEdeYfguKliMWqNOyl/view?usp=sharing) Contains data of 1453 customers and contains 15 variables.
+
 ## Feature Engineering
 In this phase, Principal Component Analysis (PCA) was employed to effectively reduce dimensionality and extract essential features from the dataset. By condensing the original features into a smaller set of principal components, PCA facilitated a more efficient representation of the data while retaining its key characteristics.
 
@@ -29,8 +32,6 @@ Python 3.x pandas numpy matplotlib seaborn scikit-learn
 
 -- Explore the clustering results and gain insights from the visualizations generated during the analysis.
 
-## Dataset
-[Download Dataset](https://drive.google.com/file/d/1OexH-CVBBXAdXwuEdeYfguKliMWqNOyl/view?usp=sharing) Contains data of 1453 customers and contains 15 variables.
 
 ## Results
 [Download Result_File](https://docs.google.com/spreadsheets/d/1lw2IJGWO-9KsWOYRRr9x-1iyfREtLkb1/edit?usp=sharing&ouid=113132853465074771254&rtpof=true&sd=true) Created a new variable, which gives each customer a specific segment.
