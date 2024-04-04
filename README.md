@@ -25,7 +25,7 @@ Python 3.x pandas numpy matplotlib seaborn scikit-learn
 
     (pip install pandas numpy matplotlib seaborn scikit-learn)
   
--- Run the Jupyter Notebook or Python script to execute the provided code.
+-- Run the code in google colab or desktop application.
 
 -- Explore the clustering results and gain insights from the visualizations generated during the analysis.
 
@@ -33,6 +33,7 @@ Python 3.x pandas numpy matplotlib seaborn scikit-learn
 [Dataset](https://drive.google.com/file/d/1OexH-CVBBXAdXwuEdeYfguKliMWqNOyl/view?usp=sharing) Contains data of 1453 customers and contains 15 variables.
 
 ## Results
+[Result_File](https://docs.google.com/spreadsheets/d/1lw2IJGWO-9KsWOYRRr9x-1iyfREtLkb1/edit?usp=sharing&ouid=113132853465074771254&rtpof=true&sd=true) Created a new variable, which gives each customer a specific segment.
 
 
 
