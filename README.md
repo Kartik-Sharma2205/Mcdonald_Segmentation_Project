@@ -30,10 +30,10 @@ Python 3.x pandas numpy matplotlib seaborn scikit-learn
 -- Explore the clustering results and gain insights from the visualizations generated during the analysis.
 
 ## Dataset
-[Dataset](https://drive.google.com/file/d/1OexH-CVBBXAdXwuEdeYfguKliMWqNOyl/view?usp=sharing) Contains data of 1453 customers and contains 15 variables.
+[Download Dataset](https://drive.google.com/file/d/1OexH-CVBBXAdXwuEdeYfguKliMWqNOyl/view?usp=sharing) Contains data of 1453 customers and contains 15 variables.
 
 ## Results
-[Result_File](https://docs.google.com/spreadsheets/d/1lw2IJGWO-9KsWOYRRr9x-1iyfREtLkb1/edit?usp=sharing&ouid=113132853465074771254&rtpof=true&sd=true) Created a new variable, which gives each customer a specific segment.
+[Download Result_File](https://docs.google.com/spreadsheets/d/1lw2IJGWO-9KsWOYRRr9x-1iyfREtLkb1/edit?usp=sharing&ouid=113132853465074771254&rtpof=true&sd=true) Created a new variable, which gives each customer a specific segment.
 
 
 
